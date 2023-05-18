@@ -1,2 +1,2 @@
 # echoconsent
-the echo API for data clients to ping for consent
+the echo API to ping for consent
